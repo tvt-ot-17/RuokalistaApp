@@ -1,0 +1,4 @@
+RuokalistaApp backlog:
+k‰ytt‰j‰ voi valita ruokalistan p‰iv‰m‰‰r‰n kalenterista
+k‰ytt‰j‰ voi valita ruokalistan ravintolan valikosta
+k‰ytt‰j‰ voi selata ruokia ruokalistassa

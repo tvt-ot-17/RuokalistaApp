@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Päivän Ruokalista</string>
+    <string name="restaurant_name"><![CDATA[Ravintolat Kotkanpoika & Kultturelli]]></string>
+    <string name="menu_not_found">Ruokalistaa ei löytynyt.</string>
+</resources>
